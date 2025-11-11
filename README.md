@@ -1,5 +1,5 @@
 # Store Management System (Object-Oriented Analysis and Design)
-Presented as a general system project structure
+Presented as a general system project structure (Online Business)
 
 ## 🔧 Technologies Used
 | Component | Description |
