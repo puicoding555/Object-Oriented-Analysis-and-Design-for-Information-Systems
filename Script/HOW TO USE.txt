@@ -1,0 +1,13 @@
+กดรันที่ Main.java ใน Floder app
+
+---Login(Member)---
+Username:Chanapha
+Password:1111
+
+Username:Chayutphong
+Password:2222
+
+---Login(Manager)---
+Username:manager
+password:12345
+
