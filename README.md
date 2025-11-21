@@ -1,12 +1,10 @@
 # Store Management System (Object-Oriented Analysis and Design)
-Presented as a general system project structure (Online Business)
-
+Presented as a general system project structure (Online Business) (*Text Mode*)
 ## 🔧 Technologies Used
 | Component | Description |
 |----------|-------------|
 | Programming Language | Java |
 | Paradigm | Object-Oriented Programming |
-| Data Storage | In-Memory / Text File |
 
 ## 💻 How to Run
 1. Install **JDK 17** or above.
