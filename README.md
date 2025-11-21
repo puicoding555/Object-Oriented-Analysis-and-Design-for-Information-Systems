@@ -6,7 +6,7 @@ Presented as a general system project structure (Online Business)
 |----------|-------------|
 | Programming Language | Java |
 | Paradigm | Object-Oriented Programming |
-| Data Storage | In-Memory / Text File / MySQL (depending on configuration) |
+| Data Storage | In-Memory / Text File |
 
 ## 💻 How to Run
 1. Install **JDK 17** or above.
